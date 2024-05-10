@@ -1,0 +1,16 @@
+.h-main-container{
+    display: flex;
+    margin: 0 0 20px 0;
+    padding: 30px;
+    
+
+}
+
+.swiper-container{
+    width: 77%;
+    margin-right:  40px;
+}
+.list-container{
+    max-height: 350px;
+    overflow-y: auto;
+}
